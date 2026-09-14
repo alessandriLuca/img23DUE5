@@ -1,0 +1,10 @@
+# Configurazione client img23d — copia questo file in "img23d.config" e modificalo,
+# oppure lascia che il primo avvio lo crei per te in modo interattivo.
+#
+# Formato: CHIAVE=valore  (niente spazi attorno all'=)
+
+# Server SSH dove gira img23d, nel formato utente@host
+SERVER=utente@host.esempio.com
+
+# Cartella del progetto sul server (dove hai fatto git clone / setup.sh)
+REMOTE_DIR=~/imageTo3D

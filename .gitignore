@@ -1,0 +1,13 @@
+ckpts/
+output/
+client/output/
+client/img23d.config
+*.log
+*.zip
+*.glb
+*.fbx
+*.mp4
+*.gif
+images/*
+!images/.gitkeep
+__pycache__/

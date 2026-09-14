@@ -1,0 +1,8 @@
+ckpts/
+output/
+images/
+*.log
+*.zip
+.git/
+__pycache__/
+windows/
